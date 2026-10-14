@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.archbabakhich.taghvim",
+      "sha256_cert_fingerprints": [
+        "7F:13:AD:67:7B:04:E9:D7:5A:31:4E:C1:64:59:61:E0:9F:10:65:3B:23:0E:45:D2:1E:94:5D:96:19:8B:AD:68"
+      ]
+    }
+  }
+]
